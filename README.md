@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Simran! 👋
 
-<!--
-**Simran2404/Simran2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently expanding my skills in app development and operating systems. 
+- 👯 I’m looking to collaborate on open-source projects that have a positive impact.
+- 💬 Let's connect and discuss anything related to programming, books or even a good cup of coffee!
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simran2404&show_icons=true&count_private=true&theme=radical)
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+
+## Let's Connect
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/simran-98b4561a8/).
+Looking forward to learning, collaborating, and building amazing things together! 😄
+
