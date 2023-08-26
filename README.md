@@ -5,7 +5,6 @@
 - Let's connect and discuss anything related to programming, books or even a good cup of coffee!
 
 ## GitHub Stats
-github-readme-stats-ruby-one.vercel.app"
 ![Simran's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Simran2404&show_icons=true&count_private=true&theme=radical)
 
 ### Top Languages
