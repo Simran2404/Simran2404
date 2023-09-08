@@ -5,7 +5,7 @@
 - Let's connect and discuss anything related to programming, books or even a good cup of coffee!
 
 ## GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Simran2404)](https://github.com/Simran2404/github-readme-stats)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Simran2404&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Simran2404/github-readme-stats#gh-light-mode-only)
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simran2404&hide=jupyter%20notebook)
